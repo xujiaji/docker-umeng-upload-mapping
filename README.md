@@ -19,4 +19,4 @@ docker run \
 -e dataSourceId=4bbf2736f1f55691100011e3 \
 -e appVersion=10.10.10 \
 -e mappingFilePath=proguardMapping.txt \
-umeng-upload-mapping:v1.0
+umeng-upload-mapping:v1.10
